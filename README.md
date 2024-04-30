@@ -1,4 +1,4 @@
-<h1 align="center">Greetings stranger 👋</h1>
+<h1 align="center">Greetings 👋</h1>
 <p>I'm Rafael, a Fullstack developer with a passion for creating and modding programs.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-RD&theme=dark" />
 <h3 align="center">Technologies I use</h3>
